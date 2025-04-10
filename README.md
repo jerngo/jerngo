@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jerry Ngo
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity, C# Programming and other Game Dev Stuff
-- 💞️ I’m looking to collaborate on Video Games Project
+- 👀 I’m interested in Building Application
+- 🌱 I’m currently learning Unity, C# Programming, Flutter, and Backend Development
+- 💞️ I’m looking to collaborate on Real Project
 - 📫 How to reach me Twitter @Jerry_Ng0
 
 <!---
